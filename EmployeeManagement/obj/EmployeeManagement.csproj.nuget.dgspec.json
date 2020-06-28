@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Manasvi\\Desktop\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement.csproj": {}
+    "C:\\Users\\GVR\\Desktop\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Manasvi\\Desktop\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement.csproj": {
+    "C:\\Users\\GVR\\Desktop\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Manasvi\\Desktop\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement.csproj",
+        "projectUniqueName": "C:\\Users\\GVR\\Desktop\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement.csproj",
         "projectName": "EmployeeManagement",
-        "projectPath": "C:\\Users\\Manasvi\\Desktop\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement.csproj",
-        "packagesPath": "C:\\Users\\Manasvi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Manasvi\\Desktop\\EmployeeManagement\\EmployeeManagement\\obj\\",
+        "projectPath": "C:\\Users\\GVR\\Desktop\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement.csproj",
+        "packagesPath": "C:\\Users\\GVR\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\GVR\\Desktop\\EmployeeManagement\\EmployeeManagement\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Manasvi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\GVR\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -79,12 +79,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[3.1.2, 3.1.2]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -93,7 +87,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
         }
       }
     }
